@@ -5,6 +5,6 @@ public class MissJava {
 
         // I miss java
         // try to commit with icon or Ctrl + K
-
+ // Ctrl + Alt + K to commit and push
     }
 }
