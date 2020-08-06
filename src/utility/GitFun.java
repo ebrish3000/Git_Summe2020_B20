@@ -6,6 +6,7 @@ public class GitFun {
         System.out.println("Java is fun");
 
         // add test
+        // some other change to test git pull
 
     }
 }
